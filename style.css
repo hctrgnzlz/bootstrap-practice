@@ -1,0 +1,11 @@
+@media (min-width: 768px) {
+    .news-input {
+        width: 50%;
+        border: solid yellow 2px
+    }
+}
+
+#hell {
+    border: solid red 2px;
+    background-color: black;
+}
